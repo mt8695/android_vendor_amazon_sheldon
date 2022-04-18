@@ -117,6 +117,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/sheldon/proprietary/vendor/lib/hw/amzn_drmprov.mt8695.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/amzn_drmprov.mt8695.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/hw/android.hardware.audio.effect@4.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.audio.effect@4.0-impl.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-mediatek.so \
+    vendor/amazon/sheldon/proprietary/vendor/lib/hw/audio.btle.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.btle.default.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/hw/audio.primary.mt8695.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.mt8695.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/hw/audio.r_submix.mt8695.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.r_submix.mt8695.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/hw/fireos.hardware.amazonthermal@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fireos.hardware.amazonthermal@1.0-impl.so \
