@@ -200,9 +200,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/sheldon/proprietary/vendor/lib/libwpa_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwpa_client.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhidl.so \
     vendor/amazon/sheldon/proprietary/vendor/lib/mediadrm/libplayreadydrmplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libplayreadydrmplugin.so \
-    vendor/amazon/sheldon/proprietary/vendor/lib/modules/hid_ftv_bleremote.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/hid_ftv_bleremote.ko \
     vendor/amazon/sheldon/proprietary/vendor/lib/modules/btmtksdio.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/btmtksdio.ko \
-    vendor/amazon/sheldon/proprietary/vendor/lib/modules/hid_ftv_bleremote.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/hid_ftv_bleremote.ko \
     vendor/amazon/sheldon/proprietary/vendor/lib/modules/wlan_mt76x3_sdio.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/wlan_mt76x3_sdio.ko \
     vendor/amazon/sheldon/proprietary/vendor/lib/modules/wlan_mt76x3_sdio_prealloc.ko:$(TARGET_COPY_OUT_VENDOR)/lib/modules/wlan_mt76x3_sdio_prealloc.ko \
     vendor/amazon/sheldon/proprietary/vendor/lib/vendor.mediatek.hardware.hdmi@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.hdmi@1.0.so \
